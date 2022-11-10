@@ -15,7 +15,7 @@
   "main": "background.js",
   "dependencies": {
     "core-js": "^3.3.2",
-    "electron": "^9.1.0",
+    "electron": "^18.3.7",
     "fibers": "^4.0.1",
     "node-sass": "^4.12.0",
     "peer": "^0.2.10",
